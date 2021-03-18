@@ -1,0 +1,22 @@
+.icn-1{
+  position: absolute;
+  top: 10px;
+  left:10px;
+}
+.icn-2{
+  position: absolute;
+  bottom: 10px;
+  right:10px;
+}
+.Season{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+}
+.winter{
+  background-color: aliceblue;
+}
+.summer{
+  background-color: orange;
+}
