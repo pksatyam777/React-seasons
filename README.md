@@ -1,5 +1,8 @@
 # React Season App 🔥 </br>
-Check Out output here: 
+Check Out output here: https://pksatyam777.github.io/React-seasons/ 💖
+
+This react web app basically tells summer or winter moonsoon according to their user location. </br>
+Note: This app uses location. </br>
 
 
 # Getting Started with Create React App
